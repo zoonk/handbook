@@ -2,6 +2,8 @@
 
 Zoonk is a small, bootstrapped open-source project dedicated to make **learning** more **fun**, **hands-on**, **diverse**, and **accessible** to everyone.
 
+- [Values](./values.md)
+
 ## Why are we building this?
 
 We believe education is key to create a more diverse society where everyone has equal opportunities.
