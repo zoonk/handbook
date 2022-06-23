@@ -66,3 +66,11 @@ If you have any ideas or questions, please go to the [discussions page](https://
 - [How are you paying the bills?](https://github.com/zoonk/handbook/discussions/2)
 - [Is Zoonk registered as a company?](https://github.com/zoonk/handbook/discussions/4)
 - [Is Zoonk a non-profit?](https://github.com/zoonk/handbook/discussions/5)
+
+## Found an issue?
+
+We want to contribute to a better society.
+If you want think something on this page doesn't reflect that, please let us know using one of the options below:
+
+- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/README.md)
+- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
