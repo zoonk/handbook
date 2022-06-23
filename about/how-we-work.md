@@ -1,3 +1,12 @@
 # How we work
 
-async communication
+- [Asynchronous communication](./async-communication.md)
+- [No deadlines](./no-deadlines.md)
+
+## Found an issue?
+
+We want to contribute to a better society.
+If you want think something on this page doesn't reflect that, please let us know using one of the options below:
+
+- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/how-we-work.md)
+- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
