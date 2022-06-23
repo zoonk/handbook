@@ -14,6 +14,7 @@ Be kind in everything you do. Being kind means:
 - Being polite.
 - Listening to people you disagree with.
 - Avoiding gossip, sarcasm, passive agressive comments, and disrespectful jokes.
+- Not tolerating [brilliant jerks](https://en.wikipedia.org/wiki/The_No_Asshole_Rule).
 - Using [nonviolent communication](https://www.youtube.com/watch?v=l7TONauJGfc).
 - Respecting our [code of conduct](../CODE_OF_CONDUCT.md).
 
