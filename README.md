@@ -18,3 +18,4 @@ This handbook includes all information and guidelines about how we work.
   - [Managing tasks](./how-we-work/managing-tasks.md)
   - [Managing discussions](./how-we-work/managing-discussions.md)
   - [Managing pull requests](./how-we-work/managing-prs.md)
+  - [Git for non-coders](./how-we-work/git-for-non-coders.md)
