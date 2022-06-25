@@ -8,5 +8,5 @@
 We want to contribute to a better society.
 If you want think something on this page doesn't reflect that, please let us know using one of the options below:
 
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/how-we-work.md)
+- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/README.md)
 - [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
