@@ -56,6 +56,11 @@ After a pull request is reviewed, there are two outcomes possible:
 - The reviewer should move the task from `In Review` to `In Progress`.
 - The author should work again on the required changes until their work is approved.
 
+### Merging pull requests
+
+- Use the `Squash and merge` option to merge a pull request.
+- Make sure to remove all the commits from the description before merging a pull request to keep the history clean.
+
 ## Found an issue?
 
 - [Suggest a change](https://github.com/zoonk/handbook/edit/main/CONTRIBUTING.md)
