@@ -17,4 +17,5 @@ This handbook includes all information and guidelines about how we work.
   - [No deadlines](./how-we-work/no-deadlines.md)
   - [How to contribute](./CONTRIBUTING.md)
   - [Managing discussions](./how-we-work/managing-discussions.md)
+  - [Managing projects](./how-we-work/managing-projects.md)
   - [How to use GitHub](./how-we-work/how-to-use-github.md)
