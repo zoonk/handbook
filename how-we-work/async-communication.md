@@ -30,7 +30,7 @@ No need to explain ourselves to other people.
 
 ### Transparency
 
-[Transparency is one of core values](./values.md#transparency).
+[Transparency is one of core values](../about/values.md#transparency).
 We want everything we do to be open, transparent, and clear.
 That's not possible when we're using synchronous communication.
 
@@ -114,7 +114,7 @@ And asynchronous communication is essential to focus because we don't have inter
 
 Asynchronous communication has its own challenges.
 It requires a different way of approaching work.
-That's why it's important to have [ownership](./values.md#ownership).
+That's why it's important to have [ownership](../about/values.md#ownership).
 Async communication won't work if you wait for someone to tell you what to do.
 You must take the lead.
 
@@ -148,5 +148,5 @@ But, for discussing work-related matters, stick to asynchronous communication.
 
 ## Found an issue?
 
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/async-communication.md)
+- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/async-communication.md)
 - [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
