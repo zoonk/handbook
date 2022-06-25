@@ -74,6 +74,16 @@ We can start by adding our code of conduct to your repository.
 - [ ] Under `Commit new file`, select the `Commit directly to the `main` branch option.
 - [ ] Click on the `Commit new file` button.
 
+We use GitHub Discussions to report bugs, suggest new features, and brainstorm ideas.
+Therefore, Issues should only be created by our own team.
+To avoid having external contributors creating issues without a discussion first, we need to update our issue templates:
+
+- [ ] Create a new file under `.github/ISSUE_TEMPLATE` called `config.yml`
+- [ ] Copy [this content](../.github/ISSUE_TEMPLATE/config.yml) into the new file.
+- [ ] Update the links in the file to use your new repository's URL.
+- [ ] Create a new file under `.github/ISSUE_TEMPLATE` called `approved-task.md`.
+- [ ] Copy [this content](../.github/ISSUE_TEMPLATE/approved-task.md) into the new file.
+
 Now, let's update the general configurations for our repository:
 
 - [ ] Go to the `Settings` tab of your repository.
