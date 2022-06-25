@@ -2,10 +2,9 @@
 
 - [Asynchronous communication](./async-communication.md)
 - [No deadlines](./no-deadlines.md)
-- [Managing tasks](./managing-tasks.md)
+- [How to contribute](../CONTRIBUTING.md)
 - [Managing discussions](./managing-discussions.md)
-- [Managing PRs](./managing-prs.md)
-- [Git for non-coders](./git-for-non-coders.md)
+- [How to use GitHub](./how-to-use-github.md)
 
 ## Found an issue?
 
