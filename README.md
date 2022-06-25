@@ -15,6 +15,6 @@ This handbook includes all information and guidelines about how we work.
 - [How we work](./how-we-work)
   - [Asynchronous communication](./how-we-work/async-communication.md)
   - [No deadlines](./how-we-work/no-deadlines.md)
-  - [How to contribute](./CONTRIBUTE.md)
+  - [How to contribute](./CONTRIBUTING.md)
   - [Managing discussions](./how-we-work/managing-discussions.md)
   - [How to use GitHub](./how-we-work/how-to-use-github.md)
