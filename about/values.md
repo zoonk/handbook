@@ -18,7 +18,7 @@ Be kind in everything you do. Being kind means:
 - Using [nonviolent communication](https://www.youtube.com/watch?v=l7TONauJGfc).
 - Respecting our [code of conduct](../CODE_OF_CONDUCT.md).
 
-Being kind is especially important in environments like ours where [asynchronous communication is the default](./how-we-work.md).
+Being kind is especially important in environments like ours where [asynchronous communication is the default](../how-we-work).
 If someone isn't kind to you, please report them to people@zoonk.org or send an anonymous feedback to https://forms.gle/48UjFHCFByxCfd12A.
 
 ## Transparency
