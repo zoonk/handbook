@@ -12,5 +12,5 @@ We work on something, we ship it, and we move on to the next task.
 
 ## Found an issue?
 
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/no-deadlines.md)
+- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/no-deadlines.md)
 - [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
