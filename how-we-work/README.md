@@ -5,6 +5,7 @@
 - [Managing tasks](./managing-tasks.md)
 - [Managing discussions](./managing-discussions.md)
 - [Managing PRs](./managing-prs.md)
+- [Git for non-coders](./git-for-non-coders.md)
 
 ## Found an issue?
 
