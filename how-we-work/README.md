@@ -2,6 +2,9 @@
 
 - [Asynchronous communication](./async-communication.md)
 - [No deadlines](./no-deadlines.md)
+- [Managing tasks](./managing-tasks.md)
+- [Managing discussions](./managing-discussions.md)
+- [Managing PRs](./managing-prs.md)
 
 ## Found an issue?
 
