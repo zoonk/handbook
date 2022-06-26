@@ -59,55 +59,55 @@ Coordinating timezones will be a nightmare for them.
 Someone will have to rearrange their life to make it work.
 It doesn't have to be like that, though.
 
-Using asynchronous communication, it doesn't matter where you are.
-You can work from Brazil or Japan.
-Whenever you're ready, work will be there waiting for you.
+Using asynchronous communication, it doesn't matter where we are.
+We can work from Brazil or Japan.
+Whenever we're ready, work will be there waiting for us.
 
 ### Well-being
 
-Asynchronous communication means it doesn't matter if you're an early bird or a night owl.
-You're in control of your life. You adapt work to your routine and not the other way around.
+Asynchronous communication means it doesn't matter if we're an early bird or a night owl.
+We're in control of our life. We adapt work to our routine and not the other way around.
 
-By doing so, you can better control your life.
-You can spend time with your kids during the day.
-You can even go for a drink if you're liking it.
-No need to worry about a boss wondering where you are or if someone needs you ASAP.
-There is no ASAP. Just enjoy your life. Work can wait.
+By doing so, we can better control our life.
+We can spend time with our kids during the day.
+We can even go for a drink if we're feeling like it.
+No need to worry about a boss wondering where we are or if someone needs us ASAP.
+There is no ASAP here, by the way. We just enjoy our life. Work can wait.
 
 ### Planning
 
 Asynchronous communication also leads to better planning.
 As mentioned earlier, there is no ASAP here.
 We're not a healthcare project. Nobody is dying.
-If we need something ASAP is because we didn't plan well, so we'll have to wait.
-This is about respecting other each other's time.
+If we need something ASAP is because we didn't plan well, so we'll have to wait and do a better planning next time.
+This is about respecting each other's time.
 
-It also means people have more time to think about things.
+It also means we have more time to think about things.
 Instead of rushing into a meeting unprepared,
-you can join a conversation at any time and share your point of view,
-thinking deeper about subject, sharing references, etc.
-You wouldn't be able to do those things during a meeting.
-This leads to higher quality work.
+we can join a conversation at any time and share our point of view,
+thinking deeper about the subject, sharing references, etc.
+We wouldn't be able to do those things during a meeting because it requires an immediate response.
+Ultimately, this leads to a higher quality work.
 
-Sometimes you'll depend on someone else's work to continue your task.
-However, that shouldn't block you from working on other things.
+Sometimes we'll depend on someone else's work to continue our task.
+However, that shouldn't block us from working on other things.
 There will always be work available to do.
-You can move to another or answer a pending discussion while waiting for the other person to answer you.
-If you really don't have any work on your plate, then congrats!
-Just go enjoy whatever you like to do during your free time. :)
+We can move to another task or answer a pending discussion while waiting for the other person to answer us.
+If we really don't have any work on your plate, then good for us!
+Let's just go enjoy whatever we like to do during our free time. :)
 
 ### Focus
 
 Synchronous communication is full of distractions.
 At the office, people will ask us for "one minute" of our attention.
-But it's never just one second.
+But it's never just one minute.
 [Distractions are expensive](http://www.paulgraham.com/makersschedule.html),
 they [make us lose focus](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html).
 It's hard to do [deep work](https://blog.doist.com/deep-work/) in those situations.
 
 We could use tools like Slack but they're provide the same kind of distractions.
 Our workflow is interrupted and it's hard to focus again.
-We believe being able to focus is essential to deep work.
+We believe being able to focus is essential to do quality work.
 And asynchronous communication is essential to focus because we don't have interruptions.
 
 ## How we use asynchronous communication
@@ -115,36 +115,31 @@ And asynchronous communication is essential to focus because we don't have inter
 Asynchronous communication has its own challenges.
 It requires a different way of approaching work.
 That's why it's important to have [ownership](../about/values.md#ownership).
-Async communication won't work if you wait for someone to tell you what to do.
-You must take the lead.
+Async communication won't work if we wait for someone to tell us what to do.
+We must take the lead.
 
 Here, at Zoonk, we use GitHub to manage our asynchronous communication.
-There are three things you need to check out every workday:
+There are three things we need to check out every workday:
 
 - Are there any [issues assigned to me](https://github.com/issues/assigned)?
 - Are there any [pull requests assigned to me](https://github.com/pulls/assigned)?
-- Are there any discussions requiring my input?
+- Are there any [discussions requiring my input](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)?
 
-We have [organization-wide discussions](https://github.com/orgs/zoonk/discussions) +
-each project has their own discussions page. Check them out to see what's going on.
-You can also use [notifications filters](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)
-to see when you're mentioned in a discussion.
-
-If you don't have any tasks assigned to you or discussions requiring your input, you can pick another task to work on.
-You can find all projects and tasks on the [projects page](https://github.com/orgs/zoonk/projects?type=beta).
+If we don't have any tasks assigned to us or discussions requiring our input, we can pick another task to work on.
+We can find all projects and tasks on the [projects page](https://github.com/orgs/zoonk/projects?type=beta).
 All tasks with the "Todo" status are redy to be worked on.
 
 ## What if I don't like asynchronous communication?
 
 We understand asynchronous work isn't ideal for everyone.
-Unfortunately, that's a core part of how work for the reasons we mentioned above.
+Unfortunately, that's a core part of how we work for the reasons we mentioned above.
 Maybe we can accomodate synchronous work for some people in the future but we don't have the resources to do it right now.
 
 ## When should we use synchronous communication?
 
 Only for non-work things, like bonding.
-Use synchronous communication to get to know each other, to have fun.
-But, for discussing work-related matters, stick to asynchronous communication.
+We use synchronous communication to get to know each other, to have fun.
+But, for discussing work-related matters, we stick to asynchronous communication.
 
 ## Found an issue?
 
