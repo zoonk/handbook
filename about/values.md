@@ -36,6 +36,7 @@ How to be transparent:
 
 The exception to those rules is when dealing with personal and/or sensitive data.
 In those cases, please DO NOT post in public forums.
+Use email and Google Drive instead.
 
 ## Humility
 
@@ -63,7 +64,7 @@ We value collaboration over competition.
 
 That's also why everything we do is open and transparent.
 We're not building this for ourselves.
-We're building this because we believe can change things.
+We're building this because we believe education can improve things.
 
 Can someone use our work and make money out of it?
 Yes, they can. But that's okay.
@@ -78,12 +79,12 @@ We don't expect others to tell us what to do.
 We go ahead and do it.
 It doesn't matter if things aren't perfect.
 They never will be.
-We take responsibility for we do things.
+We take responsibility for us and we do things.
 
 Is there a bug in our software?
 We don't wait for someone else to report it.
 We go ahead and create an issue or start a discussion about it.
-Is something wrong in this document?
+Is something wrong in this document you're reading?
 We don't complain about it.
 We edit this file and suggest something better.
 
@@ -93,10 +94,10 @@ We go ahead and do it.
 We say what we're thinking and we always seek to improve things.
 
 That doesn't mean our suggestions and comments are always going to be accepted.
-It's normal for disagreements to occur.
-But all comments will be welcome and discussed.
+It's normal (and expected) for disagreements to occur.
+But all comments are be welcome and discussed.
 Eventually, a decision will be made.
-We'll accept that decision and work together to make it work.
+We accept that decision and work together to make it work.
 Even when we disagree with it.
 We can (and should) always revisit those decisions and disagreements over time, though.
 
