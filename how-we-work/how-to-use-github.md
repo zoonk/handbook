@@ -22,8 +22,17 @@ But, here at Zoonk, we're also using them for documentation and managing our pro
 
 ## Why we use GitHub
 
-We're using GitHub because we think it's the easiest to open-source everything we do,
+We're using GitHub because we think it's the easiest way to open-source everything we do,
 keep our processes transparent, organize our conversations, and do all that asynchronously in one place.
+
+We're not saying GitHub is perfect.
+There are more feature-complete tools for task management and discussions.
+However, every choice comes with trade-offs.
+At the moment, we believe having all information about us in one place (GitHub)
+helps us to reach our goals and it's more aligned with our values (../about/values.md),
+especially the transparency one.
+It would be harder to reach the same level of transparency and eficiency using multiple tools
+because it would increase this project's complexity and [our resources are limited](https://github.com/zoonk/finances).
 
 ## Core concepts
 
@@ -37,7 +46,7 @@ keep our processes transparent, organize our conversations, and do all that asyn
 ## How to make changes
 
 This guide will focus on making changes using the github.com website.
-However, you can also use the following options for more advanced use cases:
+However, you can also use the following options for more advanced use cases (not mandatory):
 
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitHub CLI](https://cli.github.com/)
@@ -48,7 +57,7 @@ However, you can also use the following options for more advanced use cases:
 ### Creating a branch
 
 The first thing you need to do when working on a task is to [create a new branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches).
-It's useful if you have a descriptive branch name, including your name and the task ID (i.e. `myusername/23-update-github-guide`).
+It's useful if you have a descriptive branch name, including your username and the task ID (i.e. `myusername/23-update-github-guide`).
 
 ### Update a file
 
@@ -61,7 +70,7 @@ GitHub has a pencil icon to edit a page. Click on it and select the `Edit this f
 
 GitHub will open a text editor with the file content.
 Make all the changes you need.
-The editor is using the [Markdown format](https://www.markdownguide.org/getting-started/).
+The editor is using the [Markdown format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 After you finish editing your file, click on the `Commit changes` button to save your changes:
 
@@ -74,7 +83,9 @@ Otherwise, skip to the [Publishing your changes](#publishing-your-changes) secti
 
 ### Add files
 
-Before adding your file, make sure you've [created a new branch](#creating-a-branch) for your changes.
+Before adding your file, make sure you've [created a new branch](#creating-a-branch)
+for your changes and that you're working on that branch instead of `main`.
+
 After your branch is created, you can add a new file by clicking on the `Add file` -> `Create new file` button.
 If you have those files on your computer, you can use the `Upload files` option instead.
 
@@ -88,7 +99,7 @@ You can add that file to a specific folder by typing `/` after the folder name.
 For example, `about/values/README.md` would create a `README.md` file in the `about/values` folder.
 If either `about` or `values` don't exist, then GitHub will create that folder for us.
 
-After you name your file, add the desired content and click on the "Commit changes" button to save your new file.
+After you name your file, add the desired content and click on the `Commit changes` button to save your new file.
 Again, this file will be saved to your branch only.
 You still need to [send a request to publish your changes](#publishing-your-changes).
 
@@ -99,8 +110,9 @@ However, you'll need to click on the `trash` icon instead of clicking on the `pe
 
 ### Publishing your changes
 
-As we mentioned in the [core concepts section](#core-concepts), a branch is the place where we temporalily save your changes.
+As we mentioned in the [core concepts section](#core-concepts), a `branch` is the place where we temporalily save your changes.
 Right now, your changes are visible only in the branch you created. They're not published yet.
+It's like a draft. We can put anything there. It won't affect the `main` branch.
 To publish your changes to the `main` branch, you need to open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 A pull request is how you ask someone to review your changes.
@@ -116,7 +128,7 @@ To open a pull request you can do the following:
 GitHub will show you all changes you made. Please, review them before opening your pull request.
 If everything is correct, do the following steps:
 
-- Add a descriptive title for your changes. If it involves a task, you can use the task name and ID (i.e. `42: Add a GitHub tutorial`).
+- Add a descriptive title for your changes, starting with the section you're updating (i.e. `How we work: Update instructions for deleting a file`).
 - Describe the changes you made and add any comments that may be relevant to explain your changes.
 - If your pull request is related to a task, make sure to use the keyword `Closes #42` where `42` is the task ID.
 This will close that task once your pull request is published to `main`.
