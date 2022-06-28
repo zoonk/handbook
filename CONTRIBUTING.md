@@ -51,8 +51,8 @@ After a pull request is reviewed, there are two outcomes possible:
 
 ### Pull request is not approved
 
-- The reviewer should clearly state what changes are required to merge that work.
-- The reviewer should reassign the pull request to the author.
+- The reviewer should clearly state what changes are required (and why) to merge that work.
+- The reviewer should reassign the pull request to the author, so they can work on the requested changes.
 - The reviewer should move the task from `In Review` to `In Progress`.
 - The author should work again on the required changes until their work is approved.
 
