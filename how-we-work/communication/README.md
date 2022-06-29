@@ -1,7 +1,7 @@
 Make sure to use [asynchronous communication](./async-communication.md) and to follow
 [our values](../../about/values.md) while talking about work at Zoonk.
 
-Some of the things you need to consider while communicating with others:
+Some of the things you need to consider when communicating with others while contributing to Zoonk projects:
 
 - [Posting in public](./posting-in-public.md)
 - [Inclusive language](./inclusive-language.md)
