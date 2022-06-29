@@ -18,5 +18,5 @@ Don't post in public when dealing with sensitive information. For example:
 In those cases, you can use:
 
 - Private repositories.
-- Google Drive.
+- Private Google Drive documents.
 - Email.
