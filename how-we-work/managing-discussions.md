@@ -6,7 +6,7 @@ You can go there to report bugs, suggest features, brainstorm ideas, ask questio
 
 If you don't know which project you should go to, please feel free to post on the [organization's discussion forum](https://github.com/orgs/zoonk/discussions). We'll redirect your post to the relevant repository/project.
 
-Since [we work asynchronously](./async-communication.md) and [we value transparency](../about/values#transparency),
+Since [we work asynchronously](./communication/async-communication.md) and [we value transparency](../about/values#transparency),
 we prefer to have all conversations on GitHub Discussions.
 Therefore, we don't use email, Slack, or similar tools very often.
 The exception is when dealing with sensitive data (i.e. user information, personal feedback, conflicts, etc.).
