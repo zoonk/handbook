@@ -140,8 +140,3 @@ Maybe we can accomodate synchronous work for some people in the future but we do
 Only for non-work things, like bonding.
 We use synchronous communication to get to know each other, to have fun.
 But, for discussing work-related matters, we stick to asynchronous communication.
-
-## Found an issue?
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/async-communication.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
