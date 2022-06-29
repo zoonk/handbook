@@ -13,7 +13,7 @@ This handbook includes all information and guidelines about how we work.
 - [About us](./about)
   - [Values](./about/values.md)
 - [How we work](./how-we-work)
-  - [Asynchronous communication](./how-we-work/async-communication.md)
+  - [Communication](./how-we-work/communication)
   - [No deadlines](./how-we-work/no-deadlines.md)
   - [How to contribute](./CONTRIBUTING.md)
   - [Managing discussions](./how-we-work/managing-discussions.md)

@@ -60,8 +60,3 @@ After a pull request is reviewed, there are two outcomes possible:
 
 - Use the `Squash and merge` option to merge a pull request.
 - Make sure to remove all the commits from the description before merging a pull request to keep the history clean.
-
-## Found an issue?
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/CONTRIBUTING.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)

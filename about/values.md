@@ -100,13 +100,3 @@ Eventually, a decision will be made.
 We accept that decision and work together to make it work.
 Even when we disagree with it.
 We can (and should) always revisit those decisions and disagreements over time, though.
-
----
-
-## Found an issue?
-
-We want to contribute to a better society.
-If you want think something on this page doesn't reflect that, please let us know using one of the options below:
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/values.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)

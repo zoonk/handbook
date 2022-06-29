@@ -145,8 +145,3 @@ After it's approved, the reviewer will publish it to the `main` branch.
 
 **Important:** After you create a pull request, please make sure to move your task from `In Progress` to `In Review`.
 If you're making a small change (i.e. fixing a typo), you don't need to create a task for it.
-
-## Found an issue?
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/how-to-use-github.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
