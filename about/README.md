@@ -61,17 +61,3 @@ There are no guarantees we'll succeed but we'll keep trying new things until we 
 You can have a look at the [projects page](https://github.com/orgs/zoonk/projects?type=beta) to see what we're currently working on.
 This is a collaborative effort, though.
 If you have any ideas or questions, please go to the [discussions page](https://github.com/zoonk/handbook/discussions) to start a conversation.
-
-## FAQ
-  
-- [How are you paying the bills?](https://github.com/zoonk/handbook/discussions/2)
-- [Is Zoonk registered as a company?](https://github.com/zoonk/handbook/discussions/4)
-- [Is Zoonk a non-profit?](https://github.com/zoonk/handbook/discussions/5)
-
-## Found an issue?
-
-We want to contribute to a better society.
-If you want think something on this page doesn't reflect that, please let us know using one of the options below:
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/about/README.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
