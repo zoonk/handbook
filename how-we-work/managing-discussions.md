@@ -28,9 +28,3 @@ You can do so by watching discussions in the repository you manage:
 - Click on the `custom` menu.
 - Select the `Discussions` option.
 - Confirm your selection by clicking on the `Apply` button.
-
-
-## Found an issue?
-
-- [Suggest a change](https://github.com/zoonk/handbook/edit/main/how-we-work/managing-discussions.md)
-- [Start a discussion](https://github.com/zoonk/handbook/discussions/new)
