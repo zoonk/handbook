@@ -81,8 +81,6 @@ To avoid having external contributors creating issues without a discussion first
 - [ ] Create a new file under `.github/ISSUE_TEMPLATE` called `config.yml`
 - [ ] Copy [this content](../.github/ISSUE_TEMPLATE/config.yml) into the new file.
 - [ ] Update the links in the file to use your new repository's URL.
-- [ ] Create a new file under `.github/ISSUE_TEMPLATE` called `approved-task.md`.
-- [ ] Copy [this content](../.github/ISSUE_TEMPLATE/approved-task.md) into the new file.
 
 Now, let's update the general configurations for our repository:
 
