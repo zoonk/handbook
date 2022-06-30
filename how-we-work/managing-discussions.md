@@ -1,6 +1,6 @@
 # How we manage discussions
 
-We use [GitHub Discussions](https://docs.github.com/en/discussions) for our work communication. 
+We use [GitHub Discussions](https://docs.github.com/en/discussions) for our work communication.
 Each repository has a `Discussions` page.
 You can go there to report bugs, suggest features, brainstorm ideas, ask questions, and send us feedback.
 

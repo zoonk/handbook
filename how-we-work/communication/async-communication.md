@@ -9,7 +9,7 @@ We work using [asynchronous communication](https://async.twist.com/asynchronous-
 > the recipient processes the information and responds immediately**.
 > In-person communication, like meetings, are examples of purely synchronous communication.
 > You say something, I receive the information as you say it, and respond to the information right away.
-> 
+>
 > But digital forms of communication, like real-time chat messaging, can be synchronous too.
 > You send a message, I get a notification and open up Slack to read the message and respond to what you said in near real-time.
 
@@ -126,7 +126,7 @@ There are three things we need to check out every workday:
 - Are there any [discussions requiring my input](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)?
 
 If we don't have any tasks assigned to us or discussions requiring our input, we can pick another task to work on.
-We can find all tasks on the [projects page](https://github.com/orgs/zoonk/projects/11).
+We can find all tasks on the [project page](https://github.com/orgs/zoonk/projects/11).
 All tasks with the "Todo" status are redy to be worked on.
 
 ## What if I don't like asynchronous communication?

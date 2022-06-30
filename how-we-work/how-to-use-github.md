@@ -131,7 +131,7 @@ If everything is correct, do the following steps:
 - Add a descriptive title for your changes, starting with the section you're updating (i.e. `How we work: Update instructions for deleting a file`).
 - Describe the changes you made and add any comments that may be relevant to explain your changes.
 - If your pull request is related to a task, make sure to use the keyword `Closes #42` where `42` is the task ID.
-This will close that task once your pull request is published to `main`.
+  This will close that task once your pull request is published to `main`.
 - On the right side, you'll side the `Reviewers` and `Assignees` items:
 
 <img alt="GitHub screenshot showing a pull request sidebar menu" src="https://user-images.githubusercontent.com/4393133/175761006-966d6a5c-b91e-49fe-bf07-0520e223974e.png">

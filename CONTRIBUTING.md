@@ -10,15 +10,15 @@ We value [transparency](../about/values.md#transparency) and [ownership](../abou
 This means all our tasks are public.
 Anyone can see what we're working on and encouraged to pick a task they'd like to work on.
 
-The [projects page](https://github.com/orgs/zoonk/projects/11) shows all the tasks that need to be done.
+The [project page](https://github.com/orgs/zoonk/projects/11) shows all the tasks that need to be done.
 They're organized in the following manner:
 
-|Board|Description|
-|-----|-----------|
-|Todo|Approved tasks. You can start working on them right away.|
-|In Progress|Tasks that are actively being worked on. After you start working on a task, move it to this column.|
-|In Review|Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column.|
-|Done|Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean it's released to production yet.|
+| Board       | Description                                                                                                                                                                       |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Todo        | Approved tasks. You can start working on them right away.                                                                                                                         |
+| In Progress | Tasks that are actively being worked on. After you start working on a task, move it to this column.                                                                               |
+| In Review   | Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column. |
+| Done        | Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean it's released to production yet.                                                            |
 
 Issues that haven't been prioritized yet don't show up on the board.
 You can see them by going to the `Backlog` view.
@@ -34,7 +34,7 @@ We'll redirect it to the appropriate project.
 
 ## How can I contribute to a Zoonk project?
 
-- Go to the [projects page](https://github.com/orgs/zoonk/projects/11).
+- Go to the [project page](https://github.com/orgs/zoonk/projects/11).
 - Choose an unassigned task from the `Todo` column.
 - Assign the task to you.
 - Move the task to `In Progress`.

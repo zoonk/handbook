@@ -58,6 +58,6 @@ We don't know. It's a hard task and Zoonk alone won't fix all those issues but w
 It's going to involve a lot of [trial and error](https://en.wikipedia.org/wiki/Trial_and_error).
 There are no guarantees we'll succeed but we'll keep trying new things until we can create some positive impact in the education system.
 
-You can have a look at the [projects page](https://github.com/orgs/zoonk/projects/11) to see what we're currently working on.
+You can have a look at the [project page](https://github.com/orgs/zoonk/projects/11) to see what we're currently working on.
 This is a collaborative effort, though.
 If you have any ideas or questions, please go to the [discussions page](https://github.com/zoonk/handbook/discussions) to start a conversation.

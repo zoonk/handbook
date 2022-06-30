@@ -1,8 +1,7 @@
 # How we manage projects
 
 We use GitHub to manage our projects and tasks.
-The [projects page](https://github.com/orgs/zoonk/projects/11) lists all issues we're currently working on.
-It has tasks that need to be done.
+The [project page](https://github.com/orgs/zoonk/projects/11) lists all issues we're currently working on.
 We value [ownership](../about/values.md#ownership).
 Therefore, it's up to us to pick a project or task we'd like to work on.
 We don't expect others to tell us what to do.
@@ -17,8 +16,8 @@ This is how you do it:
 - [ ] Click on the `New repository` button.
 - [ ] Select `zoonk` as the `Owner`.
 - [ ] Give a name to the repository under `Repository name`.
-It should be the same or a short version of the project name.
-If you have space between words, then separate words using `-` (i.e. `my-fancy-new-project`).
+      It should be the same or a short version of the project name.
+      If you have space between words, then separate words using `-` (i.e. `my-fancy-new-project`).
 - [ ] Give a brief description to your project.
 - [ ] Select the `Public` option. As mentioned earlier, we value [transparency](../values.md#transparency) and we build in public.
 - [ ] Check the `Add a README file` option.
@@ -50,9 +49,9 @@ Now, let's update the general configurations for our repository:
 
 - [ ] Go to the `Settings` tab of your repository.
 - [ ] Update the social preview image.
-Make sure to update the preview available in our [social-media repository](https://github.com/zoonk/social-media)
-to include your repository name.
-If you don't know how to edit the preview file, create a new issue in that repository asking for a designer to do it for you.
+      Make sure to update the preview available in our [social-media repository](https://github.com/zoonk/social-media)
+      to include your repository name.
+      If you don't know how to edit the preview file, create a new issue in that repository asking for a designer to do it for you.
 - [ ] Under `Features`, disable the `Wiki` option.
 - [ ] Enable the `Issues` option.
 - [ ] Enable the `Projects` option.
