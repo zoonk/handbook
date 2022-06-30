@@ -126,7 +126,7 @@ There are three things we need to check out every workday:
 - Are there any [discussions requiring my input](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)?
 
 If we don't have any tasks assigned to us or discussions requiring our input, we can pick another task to work on.
-We can find all projects and tasks on the [projects page](https://github.com/orgs/zoonk/projects?type=beta).
+We can find all tasks on the [projects page](https://github.com/orgs/zoonk/projects/11).
 All tasks with the "Todo" status are redy to be worked on.
 
 ## What if I don't like asynchronous communication?
