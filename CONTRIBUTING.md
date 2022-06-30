@@ -22,7 +22,7 @@ They're organized in the following manner:
 
 Issues that haven't been prioritized yet don't show up on the board.
 You can see them by going to the `Backlog` view.
-To propose a new feature or report bugs, [start a discussion](./managing-discussions.md).
+To propose a new feature or report bugs, [start a discussion](./how-we-work/managing-discussions.md).
 
 ## Bugs, new features, brainstorming, and feedback
 
