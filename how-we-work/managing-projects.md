@@ -26,9 +26,8 @@ Do the following steps to create a new project:
 - [ ] Choose the `Board` template and click on `Create`.
 - [ ] Give a name to your project by clicking on the `@myusername's untitled project` title and changing it.
 - [ ] Rename `View 1` to `Kanban` by clicking on it.
-- [ ] After the last column, click on the `+` add to add a new column.
-- [ ] Name the new column `Backlog`. We'll keep all unprioritized tasks there.
-- [ ] Drag the `Backlog` column to the start, so it becomes the first column.
+- [ ] Click on the `Search or filter this view` button.
+- [ ] Use the `-no:status` filter to remove issues that haven't been prioritized yet.
 - [ ] Create a new column and call it `In Review`. We'll add tasks with open pull requests here.
 - [ ] Move the `In Review` column between `In Progress` and `Done`.
 - [ ] Create a new view by clicking on the `New view` button.
