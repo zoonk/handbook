@@ -1,59 +1,17 @@
 # How we manage projects
 
 We use GitHub to manage our projects and tasks.
-The [projects page](https://github.com/orgs/zoonk/projects?type=beta) lists all activities we're currently working on.
-All projects have tasks that need to be done.
+The [projects page](https://github.com/orgs/zoonk/projects/11) lists all issues we're currently working on.
+It has tasks that need to be done.
 We value [ownership](../about/values.md#ownership).
 Therefore, it's up to us to pick a project or task we'd like to work on.
 We don't expect others to tell us what to do.
 Make sure to read the [contributing guide](../CONTRIBUTING.md) to understand how to get started.
 
-## How to start a project
+## Creating a repository
 
-When starting a new project, there are two things you need to do:
-
-### 1. Create a new project
-
-Every project should be visible at the [projects page](https://github.com/orgs/zoonk/projects?type=beta).
-It doesn't matter if it's working in progress.
-Everything is always in progress. :)
-We build in public and building in public means we start sharing things as soon as we start working on them.
-
-Do the following steps to create a new project:
-
-- [ ] Go to the [projects page](https://github.com/orgs/zoonk/projects?type=beta).
-- [ ] Click on the `New project` button.
-- [ ] Choose the `Board` template and click on `Create`.
-- [ ] Give a name to your project by clicking on the `@myusername's untitled project` title and changing it.
-- [ ] Rename `View 1` to `Kanban` by clicking on it.
-- [ ] Click the new view tab, then on the `Search or filter this view` button.
-- [ ] Use the `-no:status` filter to remove issues that haven't been prioritized yet.
-- [ ] Click on the `Save changes` button.
-- [ ] Create a new column and call it `In Review`. We'll add tasks with open pull requests here.
-- [ ] Move the `In Review` column between `In Progress` and `Done`.
-- [ ] Create a new view by clicking on the `New view` button.
-- [ ] Use the `Table` format for the new view.
-- [ ] Rename this new view to `Tasks`.
-- [ ] Create a new view by clicking on the `New view` button.
-- [ ] Use the `Table` format for the new view.
-- [ ] Rename this view to `Backlog`.
-- [ ] Click the `Backlog` tab, then on the `Search or filter this view` button.
-- [ ] Use the `no:status` filter to show only non-prioritized issues.
-- [ ] Click on the `Save changes` button.
-- [ ] Edit the project settings by clicking on the `...` button, then `Settings`.
-- [ ] Add a brief description explaining what's the goal of your project.
-- [ ] Click on the `Save` button to save your description.
-- [ ] Scroll down to the `Danger zone` area.
-- [ ] Under `Visibility`, change it from `Private` to `Public`.
-- [ ] On the left sidebar, go to the `Manage access` menu.
-- [ ] Under `Invite collaborators`, add the team responsible for managing this project.
-- [ ] Select the `Write` role.
-- [ ] Click on `Invite` to invite them to join the project.
-
-### 2. Create a new repository
-
-All information about your project will live in a repository.
-Therefore, you need to create a repository for your project now:
+Sometimes, when working on something new, it may be useful to create a new repository.
+This is how you do it:
 
 - [ ] Navigate to the [repositories page](https://github.com/orgs/zoonk/repositories) for the Zoonk organization.
 - [ ] Click on the `New repository` button.
@@ -157,10 +115,3 @@ Clean up unused features:
 - [ ] Under `About` click on the `clog` (settings) icon.
 - [ ] Add relevants tags to your project (i.e. `handbook`, `management`, `design`, etc.).
 - [ ] Uncheck all the options you won't use (i.e. non-software projects probably won't use `releases`, `packages`, and `environments`).
-
-Now, you need to link this repository to the project you previously created:
-
-- [ ] Go to your new repository.
-- [ ] Click on the `Projects` tab.
-- [ ] Click on the `Add project` button.
-- [ ] Select the project you've created.
