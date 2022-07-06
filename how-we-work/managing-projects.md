@@ -3,8 +3,8 @@
 We use GitHub to manage our projects and tasks.
 The [project page](https://github.com/orgs/zoonk/projects/11) lists all issues we're currently working on.
 We value [ownership](../about/values.md#ownership).
-Therefore, it's up to us to pick a project or task we'd like to work on.
-We don't expect others to tell us what to do.
+Therefore, it's up to you to pick a project or task you'd like to work on.
+You shouldn't expect others to tell you what to do.
 Make sure to read the [contributing guide](../CONTRIBUTING.md) to understand how to get started.
 
 ## Creating a repository
@@ -17,7 +17,7 @@ This is how you do it:
 - [ ] Select `zoonk` as the `Owner`.
 - [ ] Give a name to the repository under `Repository name`.
       It should be the same or a short version of the project name.
-      If you have space between words, then separate words using `-` (i.e. `my-fancy-new-project`).
+      If you have space between words, then separate them using `-` (i.e. `my-fancy-new-project`).
 - [ ] Give a brief description to your project.
 - [ ] Select the `Public` option. As mentioned earlier, we value [transparency](../about/values.md#transparency) and we build in public.
 - [ ] Check the `Add a README file` option.
@@ -34,7 +34,7 @@ We can start by adding our code of conduct to your repository.
 - [ ] Select the `Contributor Covenant` option.
 - [ ] Under `Contact method`, type `https://forms.gle/48UjFHCFByxCfd12A`.
 - [ ] Click on the `Review and submit` button.
-- [ ] Under `Commit new file`, select the `Commit directly to the `main` branch option.
+- [ ] Under `Commit new file`, select the `Commit directly to the main branch` option.
 - [ ] Click on the `Commit new file` button.
 
 We use GitHub Discussions to report bugs, suggest new features, and brainstorm ideas.
