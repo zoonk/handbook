@@ -31,7 +31,7 @@ How to be transparent:
 
 - Communicate in public. Instead of sending an email, [start a new discussion](https://github.com/zoonk/handbook/discussions/new).
 - Be clear about your intentions (say what you mean).
-- Overcommunicate. Don't wait for things to be perfect to share your work. Do it from the moment you start.
+- Over-communicate. Don't wait for things to be perfect to share your work. Do it from the moment you start.
 - Don't use email, Slack, WhatsApp, or other private channels to discuss work.
 
 The exception to those rules is when dealing with personal and/or sensitive data.
@@ -79,7 +79,7 @@ We don't expect others to tell us what to do.
 We go ahead and do it.
 It doesn't matter if things aren't perfect.
 They never will be.
-We take responsibility for us and we do things.
+We take responsibility and we do things.
 
 Is there a bug in our software?
 We don't wait for someone else to report it.
@@ -88,14 +88,14 @@ Is something wrong in this document you're reading?
 We don't complain about it.
 We edit this file and suggest something better.
 
-Ownership to us is a default to action.
+Ownership to us is a **default to action**.
 We don't expect others to do things for us.
 We go ahead and do it.
 We say what we're thinking and we always seek to improve things.
 
 That doesn't mean our suggestions and comments are always going to be accepted.
 It's normal (and expected) for disagreements to occur.
-But all comments are be welcome and discussed.
+But all comments are welcomed and discussed.
 Eventually, a decision will be made.
 We accept that decision and work together to make it work.
 Even when we disagree with it.
