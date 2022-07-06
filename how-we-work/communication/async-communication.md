@@ -22,11 +22,11 @@ Are you traveling to spend more time with your family? That's okay, you can work
 Are you busy helping your kids with their homework? That's okay, you can work later.
 Are you feeling sad and need to take a break? That's okay, work when you're feeling better.
 
-In theory, we could have those things using synchronous communication but we feel bad
-when we need to ask for a break, to leave, or to arrive late.
-We shouldn't need to explain ourselves to anyone.
-Using asynchronous communication, work carry on as usual and our tasks will be there when we're ready to work again.
-No need to explain ourselves to other people.
+In theory, we could have those things using synchronous communication but some people feel bad
+when they need to ask for a break, to leave, or to arrive late.
+They shouldn't need to explain themselves to anyone.
+Using asynchronous communication, work carry on as usual and your tasks will be there when you're ready to work again.
+No need to explain yourself to other people.
 
 ### Transparency
 
@@ -35,12 +35,12 @@ We want everything we do to be open, transparent, and clear.
 That's not possible when we're using synchronous communication.
 
 If we discuss a strategy over a call, there's always some context lost in there.
-If a group makes a decision alone, other people won't know why the full story of why that decision was made.
-We don't want decisions happening behind closed doors.
+If a group makes a decision alone, other people won't know the full story of why that decision was made.
+We don't want decisions happening behind "closed doors".
 
 By using asynchronous communication, our entire work and thought process is available for anyone else to see.
 We don't have anything to hide.
-If we make a mistake, we must be accountable for it.
+If we make a mistake, [we as a team](../../about/values.md#humility) must be held accountable for it.
 This is only possible when everything is clear, open, and transparent.
 
 ### Documentation
@@ -65,14 +65,14 @@ Whenever we're ready, work will be there waiting for us.
 
 ### Well-being
 
-Asynchronous communication means it doesn't matter if we're an early bird or a night owl.
-We're in control of our life. We adapt work to our routine and not the other way around.
+Asynchronous communication means it doesn't matter if you're an early bird or a night owl.
+You're in control of your life. You adapt work to your routine and not the other way around.
 
-By doing so, we can better control our life.
-We can spend time with our kids during the day.
-We can even go for a drink if we're feeling like it.
-No need to worry about a boss wondering where we are or if someone needs us ASAP.
-There is no ASAP here, by the way. We just enjoy our life. Work can wait.
+By doing so, you can better control your life.
+You can spend time with your kids during the day.
+You can even go for a drink if you're feeling like it.
+No need to worry about a boss wondering where you are or if someone needs you ASAP.
+There is no ASAP here, by the way. Just enjoy your life. Work can wait.
 
 ### Planning
 
@@ -80,21 +80,21 @@ Asynchronous communication also leads to better planning.
 As mentioned earlier, there is no ASAP here.
 We're not a healthcare project. Nobody is dying.
 If we need something ASAP is because we didn't plan well, so we'll have to wait and do a better planning next time.
-This is about respecting each other's time.
+This is about **respecting** each other's time.
 
 It also means we have more time to think about things.
 Instead of rushing into a meeting unprepared,
-we can join a conversation at any time and share our point of view,
+you can join a conversation at any time and share your point of view,
 thinking deeper about the subject, sharing references, etc.
 We wouldn't be able to do those things during a meeting because it requires an immediate response.
 Ultimately, this leads to a higher quality work.
 
-Sometimes we'll depend on someone else's work to continue our task.
-However, that shouldn't block us from working on other things.
+Sometimes you'll depend on someone else's work to continue your task.
+However, that shouldn't block you from working on other things.
 There will always be work available to do.
-We can move to another task or answer a pending discussion while waiting for the other person to answer us.
-If we really don't have any work on your plate, then good for us!
-Let's just go enjoy whatever we like to do during our free time. :)
+You can move to another task or answer a pending discussion while waiting for the other person to answer you.
+If you really don't have any work on your plate, then good for you!
+Go enjoy whatever you like to do during your free time. :)
 
 ### Focus
 
@@ -105,7 +105,7 @@ But it's never just one minute.
 they [make us lose focus](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html).
 It's hard to do [deep work](https://blog.doist.com/deep-work/) in those situations.
 
-We could use tools like Slack but they're provide the same kind of distractions.
+We could use tools like Slack but they provide the same kind of distractions.
 Our workflow is interrupted and it's hard to focus again.
 We believe being able to focus is essential to do quality work.
 And asynchronous communication is essential to focus because we don't have interruptions.
@@ -115,19 +115,19 @@ And asynchronous communication is essential to focus because we don't have inter
 Asynchronous communication has its own challenges.
 It requires a different way of approaching work.
 That's why it's important to have [ownership](../../about/values.md#ownership).
-Async communication won't work if we wait for someone to tell us what to do.
-We must take the lead.
+Async communication won't work if you wait for someone to tell you what to do.
+You must take the lead.
 
 Here, at Zoonk, we use GitHub to manage our asynchronous communication.
-There are three things we need to check out every workday:
+There are three things you need to check out every workday:
 
 - Are there any [issues assigned to me](https://github.com/issues/assigned)?
 - Are there any [pull requests assigned to me](https://github.com/pulls/assigned)?
 - Are there any [discussions requiring my input](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)?
 
-If we don't have any tasks assigned to us or discussions requiring our input, we can pick another task to work on.
-We can find all tasks on the [project page](https://github.com/orgs/zoonk/projects/11).
-All tasks with the "Todo" status are redy to be worked on.
+If you don't have any tasks assigned to you or discussions requiring your input, you can pick another task to work on.
+You can find all tasks on the [project page](https://github.com/orgs/zoonk/projects/11).
+All tasks with the "Todo" status are ready to be worked on.
 
 ## What if I don't like asynchronous communication?
 
