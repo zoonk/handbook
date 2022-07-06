@@ -30,7 +30,7 @@ No need to explain ourselves to other people.
 
 ### Transparency
 
-[Transparency is one of core values](../about/values.md#transparency).
+[Transparency is one of core values](../../about/values.md#transparency).
 We want everything we do to be open, transparent, and clear.
 That's not possible when we're using synchronous communication.
 
@@ -114,7 +114,7 @@ And asynchronous communication is essential to focus because we don't have inter
 
 Asynchronous communication has its own challenges.
 It requires a different way of approaching work.
-That's why it's important to have [ownership](../about/values.md#ownership).
+That's why it's important to have [ownership](../../about/values.md#ownership).
 Async communication won't work if we wait for someone to tell us what to do.
 We must take the lead.
 
