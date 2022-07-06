@@ -21,7 +21,7 @@ However, education isn't accessible to everyone for different reasons. In many p
 
 ## Why those things are a problem?
 
-If education is **expensive**, fewer people get formal education and many students dropout from school.
+If education is **expensive**, fewer people get formal education and many students drop out from school.
 By dropping out, they have [fewer chances of succeeding](https://www.researchgate.net/publication/262308885_Long-term_labour_market_consequences_of_dropping_out_of_upper_secondary_school_Minority_disadvantages) in our current system.
 Plus, it has a [negative effect in society as a whole](https://www.researchgate.net/publication/338665702_The_economics_of_high_school_dropouts).
 
@@ -49,14 +49,14 @@ It also makes harder to fight diseases thanks to conspiracity theories and anti-
 If education is **more focused on memorization than problem-solving**,
 then we're not preparing future generations for the needs of the 21st century.
 We have all the information we need in our hands now thanks to smartphones.
-We don't need memorization anymore. [Teaching problem-solving](https://www.weforum.org/agenda/2018/07/the-skills-needed-to-survive-the-robot-invasion-of-the-workplace) is much important
-to avoid [technological unemployment](https://en.wikipedia.org/wiki/Technological_unemployment).
+[Teaching problem-solving](https://www.weforum.org/agenda/2018/07/the-skills-needed-to-survive-the-robot-invasion-of-the-workplace) is more important
+to avoid [technological unemployment](https://en.wikipedia.org/wiki/Technological_unemployment) than memorization.
 
-## How can we fix them?
+## How can we fix those issues?
 
 We don't know. It's a hard task and Zoonk alone won't fix all those issues but we're creating this project to help.
 It's going to involve a lot of [trial and error](https://en.wikipedia.org/wiki/Trial_and_error).
-There are no guarantees we'll succeed but we'll keep trying new things until we can create some positive impact in the education system.
+There are no guarantees we'll succeed but we'll keep trying new things until we can make a positive impact in the education system.
 
 You can have a look at the [project page](https://github.com/orgs/zoonk/projects/11) to see what we're currently working on.
 This is a collaborative effort, though.
