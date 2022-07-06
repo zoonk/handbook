@@ -19,7 +19,7 @@ This is how you do it:
       It should be the same or a short version of the project name.
       If you have space between words, then separate words using `-` (i.e. `my-fancy-new-project`).
 - [ ] Give a brief description to your project.
-- [ ] Select the `Public` option. As mentioned earlier, we value [transparency](../values.md#transparency) and we build in public.
+- [ ] Select the `Public` option. As mentioned earlier, we value [transparency](../about/values.md#transparency) and we build in public.
 - [ ] Check the `Add a README file` option.
 - [ ] Under `Choose a license`, select `MIT` for software projects or `Creative Commons Zero v1.0 Universal` for content projects.
 - [ ] Click on the `Create repository` button.
@@ -49,7 +49,7 @@ Now, let's update the general configurations for our repository:
 
 - [ ] Go to the `Settings` tab of your repository.
 - [ ] Update the social preview image.
-      Make sure to update the preview available in our [social-media repository](https://github.com/zoonk/social-media)
+      Make sure to update the preview available in our [social-media repository](https://github.com/zoonk/social-media/blob/main/templates/GitHub_Social_Preview.sketch)
       to include your repository name.
       If you don't know how to edit the preview file, create a new issue in that repository asking for a designer to do it for you.
 - [ ] Under `Features`, disable the `Wiki` option.
