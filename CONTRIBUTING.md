@@ -6,7 +6,7 @@ Please, make sure to read our [code of conduct](./CODE_OF_CONDUCT.md) and this e
 ## How we organize our tasks
 
 Before we start, let's first understand [how we work](./how-we-work) and organize our tasks.
-We value [transparency](../about/values.md#transparency) and [ownership](../about/values.md#ownership).
+We value [transparency](./about/values.md#transparency) and [ownership](./about/values.md#ownership).
 This means all our tasks are public.
 Anyone can see what we're working on and encouraged to pick a task they'd like to work on.
 
