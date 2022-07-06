@@ -1,7 +1,7 @@
 # How to use GitHub
 
 This guide is focused on non-coders because there are plenty of Git learning resources online for developers.
-Regardless if you're a junior software engineer or a non-coder, you also recommend you to read [GitHub's hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world) and their [Git Guide](https://github.com/git-guides/install-git).
+Regardless if you're a junior software engineer or a non-coder, we also recommend you to read [GitHub's hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world) and their [Git Guide](https://github.com/git-guides/install-git).
 The US government website also has a [guide on how GitHub works](https://digital.gov/resources/an-introduction-github/).
 Here, we'll focus on how we can use GitHub for managing our work at Zoonk.
 
@@ -29,7 +29,7 @@ We're not saying GitHub is perfect.
 There are more feature-complete tools for task management and discussions.
 However, every choice comes with trade-offs.
 At the moment, we believe having all information about us in one place (GitHub)
-helps us to reach our goals and it's more aligned with our values (../about/values.md),
+helps us to reach our goals and it's more aligned with our [values](../about/values.md),
 especially the transparency one.
 It would be harder to reach the same level of transparency and eficiency using multiple tools
 because it would increase this project's complexity and [our resources are limited](https://github.com/zoonk/finances).
@@ -39,13 +39,13 @@ because it would increase this project's complexity and [our resources are limit
 - **Projects:** Where we manage our tasks.
 - **Repositories:** Where we keep our project files.
 - **Issues:** Tasks we need to work on.
-- **Branch:** A folder where we temporarily keep changes we're making.
+- **Branch:** A folder where we temporarily keep changes we're making while working on an issue.
 - **Pull request**: A request to publish our changes to the `main` branch.
 - **Discussions:** A forum where we keep all conversations and decisions about a project.
 
 ## How to make changes
 
-This guide will focus on making changes using the github.com website.
+This guide will focus on making changes using the `github.com` website.
 However, you can also use the following options for more advanced use cases (not mandatory):
 
 - [GitHub Desktop](https://desktop.github.com/)
@@ -57,11 +57,16 @@ However, you can also use the following options for more advanced use cases (not
 ### Creating a branch
 
 The first thing you need to do when working on a task is to [create a new branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches).
-It's useful if you have a descriptive branch name, including your username and the task ID (i.e. `myusername/23-update-github-guide`).
+It's useful if you have a descriptive branch name including the task ID (i.e. `23-update-github-guide`).
+You can also create a new branch
+[directly from the issue page](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)
+by clicking on the `Create a branch` link in the `Development` section on the right sidebar.
+That link will create a branch with a descriptive name and associate your new branch to that task.
 
 ### Update a file
 
-After you've created your branch, navigate to the file you'd like to update.
+After you've created your branch, click on the branch name to access it.
+Then, navigate to the file you'd like to update.
 For example, this one is located in `how-we-work` -> `how-to-use-github.md`.
 
 GitHub has a pencil icon to edit a page. Click on it and select the `Edit this file` option:
@@ -83,7 +88,7 @@ Otherwise, skip to the [Publishing your changes](#publishing-your-changes) secti
 
 ### Add files
 
-Before adding your file, make sure you've [created a new branch](#creating-a-branch)
+Before adding a new file, make sure you've [created a new branch](#creating-a-branch)
 for your changes and that you're working on that branch instead of `main`.
 
 After your branch is created, you can add a new file by clicking on the `Add file` -> `Create new file` button.
@@ -103,19 +108,22 @@ After you name your file, add the desired content and click on the `Commit chang
 Again, this file will be saved to your branch only.
 You still need to [send a request to publish your changes](#publishing-your-changes).
 
+> **Note:** Avoid uploading Word, Excel or Power Point files here.
+> If you need those kind of documents, use Google Docs and add its link here instead.
+
 ### Delete a file
 
-For deleting a file, you need to follow the same steps you did for updating a file.
+For deleting a file, you need to follow the same steps you did for updating one.
 However, you'll need to click on the `trash` icon instead of clicking on the `pencil` one.
 
 ### Publishing your changes
 
-As we mentioned in the [core concepts section](#core-concepts), a `branch` is the place where we temporalily save your changes.
+As we mentioned in the [core concepts section](#core-concepts), a `branch` is the place where you temporalily save your changes.
 Right now, your changes are visible only in the branch you created. They're not published yet.
-It's like a draft. We can put anything there. It won't affect the `main` branch.
+It's like a draft. You can put anything there. It won't affect the `main` branch.
 To publish your changes to the `main` branch, you need to open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-A pull request is how you ask someone to review your changes.
+A `pull request` is how you ask someone to review your changes.
 After your change is approved, it will published to the `main` branch and your temporary branch will be deleted.
 To open a pull request you can do the following:
 
@@ -126,22 +134,23 @@ To open a pull request you can do the following:
 - Click on the `Create pull request` button.
 
 GitHub will show you all changes you made. Please, review them before opening your pull request.
-If everything is correct, do the following steps:
+If everything is correct, follow the steps below:
 
 - Add a descriptive title for your changes, starting with the section you're updating (i.e. `How we work: Update instructions for deleting a file`).
 - Describe the changes you made and add any comments that may be relevant to explain your changes.
 - If your pull request is related to a task, make sure to use the keyword `Closes #42` where `42` is the task ID.
   This will close that task once your pull request is published to `main`.
-- On the right side, you'll side the `Reviewers` and `Assignees` items:
+  _If you used the `Create a branch` link from the issue page, then you don't need to do this._
+- On the right column, you'll see the `Reviewers` and `Assignees` items:
 
 <img alt="GitHub screenshot showing a pull request sidebar menu" src="https://user-images.githubusercontent.com/4393133/175761006-966d6a5c-b91e-49fe-bf07-0520e223974e.png">
 
-Make sure to ask a review from the project lead and assign this pull request to them as well.
+Make sure to ask a review from the project lead and assign this `pull request` to them as well.
 You can find the project lead in the main `README.md` file.
 
-Now, click on the "Create pull request" button.
-Your pull request will be created.
+Now, click on the `Create pull request` button.
+Your `pull request` will be created.
 After it's approved, the reviewer will publish it to the `main` branch.
 
-**Important:** After you create a pull request, please make sure to move your task from `In Progress` to `In Review`.
-If you're making a small change (i.e. fixing a typo), you don't need to create a task for it.
+> **Important:** After you create a `pull request`, please make sure to move your task from `In Progress` to `In Review`.
+> If you're making a small change (i.e. fixing a typo), you don't need to create a task for it.
