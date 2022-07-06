@@ -40,7 +40,7 @@ Use email and Google Drive instead.
 
 ## Humility
 
-Be hundle. Nobody knows everything.
+Be humble. Nobody knows everything.
 
 The minute we start thinking we have all the answers, that's when we stop learning and growing.
 When we don't know something, we're not afraid to say "I don't know."
