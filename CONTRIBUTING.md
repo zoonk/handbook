@@ -18,10 +18,10 @@ They're organized in the following manner:
 | Todo        | Approved tasks. You can start working on them right away.                                                                                                                         |
 | In Progress | Tasks that are actively being worked on. After you start working on a task, move it to this column.                                                                               |
 | In Review   | Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column. |
-| Done        | Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean it's released to production yet.                                                            |
+| Done        | Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean they're released to production yet.|
 
 Issues that haven't been prioritized yet don't show up on the board.
-You can see them by going to the `Backlog` view.
+You can see them by going to the [Backlog view](https://github.com/orgs/zoonk/projects/11/views/3).
 To propose a new feature or report bugs, [start a discussion](./how-we-work/managing-discussions.md).
 
 ## Bugs, new features, brainstorming, and feedback
@@ -49,15 +49,15 @@ After a pull request is reviewed, there are two outcomes possible:
 
 ### Pull request is approved
 
-- The reviewer should merge the changes using the "stash and merge" option.
-- The reviewer should move the task from `In Review` to `Done` (if that wasn't done automatically).
+- **Reviewer:** After approving a `pull request`, publish the changes using the `squash and merge` option.
+- **Automated:** The task moves from `In Review` to `Done`.
 
 ### Pull request is not approved
 
-- The reviewer should clearly state what changes are required (and why) to merge that work.
-- The reviewer should reassign the pull request to the author, so they can work on the requested changes.
-- The reviewer should move the task from `In Review` to `In Progress`.
-- The author should work again on the required changes until their work is approved.
+- **Reviewer:** Clearly state what changes need to be made (and why) for the work to be approved.
+- **Reviewer:** Check the `Request changes` option. This will make the task go back to the `In Progress` column.
+- **Reviewer:** Reassign the `pull request` to the author, so they can work on the requested changes.
+- **Author:** Work on the requested changes (or comment why you don't agree with them) until the `pull request` is approved.
 
 ### Merging pull requests
 
