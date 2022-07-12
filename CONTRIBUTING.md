@@ -15,8 +15,9 @@ They're organized in the following manner:
 
 |Board|Description|
 |-----|-----------|
+|Pending specs|Draft tasks. Someone needs to write the requirements for it.|
 |Blocked|Tasks blocked by other tasks. After they're unblocked, move them to `Todo`.|
-|Todo| Approved tasks. You can start working on them right away.|
+|Todo|Approved tasks. You can start working on them right away.|
 |In Progress|Tasks that are actively being worked on. After you start working on a task, move it to this column.|
 |In Review|Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column.|
 |Done|Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean they're released to production yet.|
