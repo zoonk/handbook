@@ -13,13 +13,13 @@ Anyone can see what we're working on and encouraged to pick a task they'd like t
 The [project page](https://github.com/orgs/zoonk/projects/11) shows all the tasks that need to be done.
 They're organized in the following manner:
 
-| Board       | Description                                                                                                                                                                       |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Blocked| Tasks blocked by other tasks. After they're unblocked, move them to `Todo`.|
-| Todo        | Approved tasks. You can start working on them right away.                                                                                                                         |
-| In Progress | Tasks that are actively being worked on. After you start working on a task, move it to this column.                                                                               |
-| In Review   | Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column. |
-| Done        | Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean they're released to production yet.|
+|Board|Description|
+|-----|-----------|
+|Blocked|Tasks blocked by other tasks. After they're unblocked, move them to `Todo`.|
+|Todo| Approved tasks. You can start working on them right away.|
+|In Progress|Tasks that are actively being worked on. After you start working on a task, move it to this column.|
+|In Review|Tasks that are partially finished and waiting for someone to review them. After you [open a pull request for a task](./how-we-work/how-to-use-github.md), move it to this column.|
+|Done|Tasks that are completed and pushed to the `main` branch. It doesn't necessarily mean they're released to production yet.|
 
 Issues that haven't been prioritized yet don't show up on the board.
 You can see them by going to the [Backlog view](https://github.com/orgs/zoonk/projects/11/views/3).
@@ -64,3 +64,21 @@ After a pull request is reviewed, there are two outcomes possible:
 
 - Use the `Squash and merge` option to merge a pull request.
 - Make sure to remove all the commits from the description before merging a pull request to keep the history clean.
+
+## Creating tasks
+
+Follow the steps below to create a new task:
+
+- [ ] Go to the [`All` tab of this project's task management tool](https://github.com/orgs/zoonk/projects/11/views/2).
+- [ ] Use `Ctrl + Spacebar` to create a new item.
+- [ ] Select the newly created item, click on the down arrow, then click on the `Convert to issue` button:
+
+![GitHub screenshot showing how to convert an item into an issue](https://user-images.githubusercontent.com/4393133/178562514-e66903ec-ed0e-4998-a679-2d6dbeee9cc1.png)
+
+- [ ] Select the repository where you'd like to create this task.
+      If it's an `Epic` (it has sub-tasks) and it belongs to multiple repositories, then select `.github`.
+- [ ] In the `Status` column, select one of the options according to the [`How we organize our tasks` table above](#how-we-organize-our-tasks).
+- [ ] In the `Category` column, select `Epic` if it will have sub-tasks.
+      Otherwise, select `Bug` for issues, `Feature` for new functionality, or `Enhancement` for improvements to existing functionality.
+- [ ] In the `Asignees` column, select who is going to work on this task (or leave it empty if you don't know yet).
+      If it's an `Epic`, then assign yourself because it's your responsability to ensure all tasks are completed.
